@@ -1,0 +1,126 @@
+body {
+    font-family: Arial;
+}
+
+
+
+/******* header *******/
+header .container {
+    color: rgb(170, 170, 170);
+    font-size: 25px;
+    padding: 20px;
+    border-bottom: 1px solid rgb(153, 153, 153);
+    margin: 15px auto;
+}
+
+header h3 {
+    margin: 29.25px 0px;
+    font-weight: 700;
+}
+
+/*******End header *******/
+
+
+/******* section *******/
+.bookmark-box {
+    background-color: rgb(238, 238, 238);
+    padding: 30px;
+}
+
+.bookmark-box h2 {
+    margin: 19.92px 0px;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.bookmark-box p {
+    margin: 16px 0px;
+    font-weight: 700;
+    font-size: 16px;
+}
+.alert {
+    width: 80%;
+    background-color:#FFB2B2 !important;
+    color:#6D0000 !important;
+    padding: .25rem!important;
+}
+input {
+    width: 80% !important;
+    font-size: 15px !important;
+    border-radius: 5px !important;
+    border: 1px solid rgb(221, 221, 221) !important;
+    padding: 5px !important;
+    margin: auto;
+}
+
+.btn {
+    margin: 15px 5px;
+    padding: 10px 15px;
+    transition: all 0s;
+    font-size: 15px;
+}
+
+.bookmarklist h2 {
+    color: #333333;
+    font-size: 24px;
+    margin: 19.92px 0px;
+    font-weight: 700;
+}
+
+.box {
+    background-image: linear-gradient(#EEE, #FFF);
+    margin-top: 10px;
+    padding: 20px;
+}
+.btn:hover{
+	box-shadow: 2px 5px 3px 0px #888;
+}
+.btn-blue{
+	background-color:#1167c4 !important;
+	border:1px solid #1167c4!important;
+    color: white!important;
+}
+.btn-blue:hover {
+	background-color:#0a3f77 !important;
+	border: 1px solid #0a3f77 !important ;
+}
+.btn-red{
+	background-color:#910004 !important;
+	border : 1px solid #910004  !important;
+    color: white!important;
+}
+.btn-red:hover{
+	background-color:#510d0e  !important;
+	border: 1px solid #510d0e  !important;
+}
+.btn-green{
+	background-color:#139692 !important;
+	COLOR:white !important;
+	border:1px solid #139692 !important;
+}
+.btn-green:hover{
+	background-color:#0a6865 !important;
+	border:1px solid #0a6865 !important;
+}
+
+
+/*******end section *******/
+
+
+/******* footer *******/
+footer .container {
+    font-size: 14px;
+    padding: 20px;
+    border-top: 1px solid rgb(153, 153, 153);
+    margin: 15px auto;
+}
+
+footer p {
+    color: #AAAAAA;
+    font-size: 14px;
+    margin: 14px 0px;
+    font-weight: 700;
+}
+
+
+/******* end footer *******/
